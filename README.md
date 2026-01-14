@@ -1,11 +1,11 @@
 # bad apple but every ___ frames its another version
 
-you heart that correctly
+you heard that correctly!
 
 usage: first install MSVC and cmake or GCC and cmake from visual studio 2022/2025 or idk where
 to use: first install dependencies from dependencies.txt and then run download.py
 make sure you have atleast 5gb of storage left because this will install a lot of files
-its reccomended to copy the built executable to where the downloads folder is at so /
+its reccomended to copy the built executable to where the downloads folder is at so:
 
 install these dependencies:
 ```python
